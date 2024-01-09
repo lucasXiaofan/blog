@@ -17,7 +17,7 @@ last_name: Lu
 superuser: true
 
 # Role/position/tagline
-role: Computer Science Student at UCI 
+role: Computer Science Student at University of California, Irvine
 
 # Organizations/Affiliations to show in About widget
 # organizations:
@@ -48,4 +48,5 @@ highlight_name: true
 website: ""
 ---
 
-wtf why not updated? 
+XiaoFan Lu do research on transformer distributed inference and has experience in computer vision and natural language processing. 
+
