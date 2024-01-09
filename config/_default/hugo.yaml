@@ -10,24 +10,24 @@ baseURL: 'https://example.com/' # Website URL
 ## PAGE OPTIONS
 ############################
 
-# cascade:
-#   # Blog post options
-#   - _target:
-#       path: /post/**
-#       kind: page
-#     pager: true
-#     editable: true
-#     hide_date: false
-#     show_date_updated: true
-#     reading_time: true
-#     commentable: true
-#     show_related: true
-#     share: true
-#     # Just use Breadcrumb for navigation on blog post pages?
-#     show_breadcrumb: false
-#     header:
-#       navbar:
-#         enable: true
+cascade:
+  # Blog post options
+  - _target:
+      path: /post/**
+      kind: page
+    pager: true
+    editable: true
+    hide_date: false
+    show_date_updated: true
+    reading_time: true
+    commentable: true
+    show_related: true
+    share: true
+    # Just use Breadcrumb for navigation on blog post pages?
+    show_breadcrumb: false
+    header:
+      navbar:
+        enable: true
 
 ############################
 ## LANGUAGE
@@ -64,10 +64,10 @@ imaging:
   quality: 95
   anchor: smart
 timeout: 600000
-taxonomies:
-  tag: tags
-  category: categories
-  author: authors
+# taxonomies:
+#   tag: tags
+#   category: categories
+#   author: authors
 markup:
   _merge: deep
   highlight:
