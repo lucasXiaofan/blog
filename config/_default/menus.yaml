@@ -14,5 +14,5 @@ main:
     url: uses/
     weight: 30
   - name: Game Dev
-  url: game/
-  weight: 40
+    url: game/
+    weight: 40
