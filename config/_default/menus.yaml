@@ -6,16 +6,17 @@
 main:
   - name: Home
     url: /
-    weight: 10
+    weight: 0
   - name: Resume
     url: tags/
-    weight: 20
-  - name: Learning Journey
-    url: uses/
-    weight: 30
-  - name: Game Dev
-    url: game/
-    weight: 40
+    weight: 10
   - name: Blogs
     url: post/
-    weight: 50
+    weight: 20
+  - name: Journey
+    url: journey/
+    weight: 30
+  - name: Projects
+    url: game/
+    weight: 40
+
