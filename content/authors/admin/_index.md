@@ -25,7 +25,7 @@ role: Computer Science Student at University of California, Irvine
 #     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research including distributed transformer inference 
+bio: Machine Learning Researcher
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -37,8 +37,12 @@ profiles:
     url: https://www.linkedin.com/in/xiaofan-lu-0b57b3205/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
-    url: uploads/resume.pdf
+    url: uploads/resume_lucas.pdf
     label: Download my resume
+  - icon: discord
+    url: https://discord.gg/xQnfvHPb
+    label: join my discord server
+
 
 
 # Highlight the author in author lists? (true/false)
