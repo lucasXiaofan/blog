@@ -36,7 +36,7 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/xiaofan-lu-0b57b3205/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
-  - icon: academicons/resume
+  - icon: academicons/CV
     url: uploads/resume_lucas.pdf
     label: Download my resume
   - icon: brands/discord
@@ -57,9 +57,5 @@ website: ""
 
 XiaoFan Lu do research on transformer distributed inference and has experience in computer vision and natural language processing, pursuing goal of equiping LLM agent with tool and knowledge base to solve real world problem. 
 
-### Bio
-1. love doing kaggle competition 
-2. favorite book is << the power of now >> 
-3. favorite video games: Elden Ring, Sekiro, Zelda: Breath of the Wild, Genshin Impact
-4. favorite anime: Haikyu
+
 

@@ -8,7 +8,7 @@ reading_time: false
 https://github.com/lucasXiaofan
 
 #### ZotNavigator: 
-![screen reader text](zotnavi.jpg "caption")
+![screen reader text](assets\media\zotnavi.png "caption")
 pitch: https://drive.google.com/drive/u/0/folders/1iYW3hGhGOcdMixS2J4TIDskoUDMzsTfq
 
 
@@ -16,5 +16,6 @@ pitch: https://drive.google.com/drive/u/0/folders/1iYW3hGhGOcdMixS2J4TIDskoUDMzs
 https://langzhezr.itch.io/
 
 #### The Last Crucible: 
-![screen reader text](crucible.jpg "caption")
+![screen reader text](crucible.png "caption")
+{{< youtube -2P9AQb82lQ >}}
 trailer: https://www.youtube.com/watch?v=-2P9AQb82lQ

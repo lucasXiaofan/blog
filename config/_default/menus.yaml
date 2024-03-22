@@ -6,17 +6,20 @@
 main:
   - name: Home
     url: /
-    weight: 0
-  - name: Resume
-    url: tags/
     weight: 10
+  - name: Tags
+    url: tags/
+    weight: 20
   - name: Blogs
     url: post/
-    weight: 20
+    weight: 30
   - name: Journey
     url: journey/
-    weight: 30
+    weight: 40
   - name: Projects
     url: game/
-    weight: 40
+    weight: 50
+  - name: About Me
+    url: about_me/
+    weight: 60
 

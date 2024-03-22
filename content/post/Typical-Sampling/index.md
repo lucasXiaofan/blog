@@ -1,7 +1,7 @@
 ---
 title: What is Typical Sampling
 summary: journey from speculative sampling to typical sampling
-date: 2024-3-22
+date: 2024-03-22
 authors:
   - admin
 tags:
